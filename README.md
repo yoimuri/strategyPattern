@@ -54,7 +54,7 @@ public class Character {
 }
 
 
-#UML Class Diagram
+# UML Class Diagram
 
 
 ![strategyPatternUML](https://github.com/user-attachments/assets/286c6605-669e-41b4-aee1-15b0af6e29d3)
